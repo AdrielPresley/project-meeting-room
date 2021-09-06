@@ -1,6 +1,6 @@
 # Meeting Room
 
-## Projeto desenvolvido uma `API com Spring Boot para gerenciar salas de reunião`, utilizando o `Spring Data para persistência de dados e o banco H2`. E o Front-End que irá consumir essa API será uma `Single Page Applications(SPA) escrita em Angular`.
+## Project developed a `Spring Boot API to manage meeting rooms`, using `Spring Data for data persistence and the H2 database`. And the Front-end that will consume this API will be a `Single Page Applications (SPA) written in Angular`.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
