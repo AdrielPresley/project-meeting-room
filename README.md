@@ -1,4 +1,6 @@
-# ClientRoom
+# Meeting Room
+
+## Projeto desenvolvido uma `API com Spring Boot para gerenciar salas de reunião`, utilizando o `Spring Data para persistência de dados e o banco H2`. E o Front-End que irá consumir essa API será uma `Single Page Applications(SPA) escrita em Angular`.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
